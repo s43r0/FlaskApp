@@ -22,7 +22,7 @@ Step 1: Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/flaskapp.git
+git clone https://github.com/s43r0/flaskapp.git
 cd flaskapp
 Step 2: Set up a virtual environment (Optional but recommended)
 bash
